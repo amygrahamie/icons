@@ -12,6 +12,25 @@ body {
     
 }
 
+a,a:link {
+    color: #576660;
+    text-decoration: none;
+    font-weight: 600;
+    padding-bottom: .3em;
+    
+}
+
+a:hover {
+    background-color: #DFDEDF;
+    text-decoration: none;
+    color: #408F62;
+    position: relative;
+    text-align: left;
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+    letter-spacing: 0.3;
+}
+
 h1 {
     background-color: #DFDEDF;
     position: relative;
@@ -51,6 +70,20 @@ h3 {
     text-transform: uppercase;
     letter-spacing: 0.2em;
     padding-top: 1em;
+}
+
+h4 {
+    background-color: #DFDEDF;
+    position: relative;
+    text-align: left;
+    font-family: "Raleway";
+    font-weight: 600;
+    color: #576660;
+    text-align: center;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    padding-bottom: 1em;
 }
 
 hr {
