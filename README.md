@@ -2,7 +2,7 @@
 
 ## Research, Discovery and Supporting Sketches
 
-I wanted to create something that both interests me and through my experience with social media and selling products daily online I felt plant based products is something people love.  Botanical drawings, pictures of plants and flowers is something that is regurlarly popping up on my feed and pinterest board and is also something I love. Normally I would be painting leafy floral designs but have never explored what I could do using vector. 
+I wanted to create something that both interests me and through my experience with social media and selling products daily online I felt plant based products is something people love and could use as screensavers, for business cards etc.  Botanical drawings, pictures of plants and flowers is something that is regurlarly popping up on my feed and pinterest board and is also something I love. Normally I would be painting leafy floral designs but have never explored what I could do using vector. 
 
 I then started taking pictures of some plants I love and gathering some inspiration online to get me started. Below I have linked my inital sketches for my project to show my process to the end product. 
 
