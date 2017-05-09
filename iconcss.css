@@ -34,6 +34,39 @@ padding-bottom: 8em;
 }
 
 
+a,a:link {
+    color: #576660;
+    text-decoration: none;
+    font-weight: 600;
+    padding-bottom: .3em;
+    
+}
+
+a:hover {
+    background-color: #DFDEDF;
+    text-decoration: none;
+    color: #408F62;
+    position: relative;
+    text-align: left;
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+    letter-spacing: 0.3;
+}
+
+h3 {
+    background-color: #DFDEDF;
+    position: relative;
+    text-align: left;
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    color: #576660;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    font-size: 1.2em;
+}
+
+
+
 /*------plant icons---------------*/
 
 .parallax {
@@ -216,7 +249,7 @@ padding-left: 1em;}
     
 }
 
-/*---------------------*/
+/*---------Download Button------------*/
 
 .button {
     position: relative;
@@ -244,3 +277,6 @@ padding-left: 1em;}
 .download {
     padding-top: 1em;
 }
+
+/*----------Footer-----------*/
+
