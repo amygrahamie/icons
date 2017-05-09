@@ -7,6 +7,7 @@ I wanted to create something that both interests me and through my experience wi
 I then started taking pictures of some plants I love and gathering some inspiration online to get me started. Below I have linked my inital sketches for my project to show my process to the end product. 
 
 * [Style Guide](https://amygrahamie.github.io/icons/styleguide.html)
+* [Supporting Sketches](https://amygrahamie.github.io/icons/sketches.html)
 
 
 ## Icon Website
