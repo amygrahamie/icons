@@ -13,6 +13,6 @@ I then started taking pictures of some plants I love and gathering some inspirat
 I wanted to try creating a horizontal scrolling website as I have a vision of walking along the garden. I haven't ended up using this website but have linked it to show a stage of my process. I was pleased as I now have a working prototype of a horizontal scrolling website even though it didnt up looking the way I had imagined.
 Following this I then felt my designs would flow and look better on a vertical scrolling website. 
 
-Here is my finished [Icon Site](https://amygrahamie.github.io/Icons/icons.html)
+Here is my finished [Icon Site](https://amygrahamie.github.io/icons/icons.html)
 
 
