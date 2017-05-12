@@ -1,0 +1,67 @@
+/*
+	RESET & BASIC SETUP
+*/
+
+* {
+	margin: 0; 
+	padding: 0; 
+}
+
+body { 
+	font-size: 80%; 
+	font-family: 'Libre Baskerville', serif;
+	background: #E8E4EB;
+	color: black; 
+	padding: 40px;
+    margin: 1em;
+}
+
+tr { 
+	vertical-align: top;
+}
+
+/*
+	STRUCTURE
+*/
+.post { 
+	width: 1170px;
+    padding-right: 1em;
+}
+
+.botanist {
+    position: fixed;
+    top: 1.5em;
+    left: 1.5em;
+    width: 13%;
+    z-index: 1;
+}
+
+
+
+.plants {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 260%;
+}
+
+.icon {
+    width: 55%;
+    position: absolute;
+    top: 3em;
+    left: 24.5em;
+}
+/*
+	TYPOGRAPHY
+*/
+p { font-size: 1.2em; margin: 0 0 15px 0; }
+h1 { 
+    font-family: Helvetica, sans-serif; font-size: 4.0em;
+    color: black;
+    text-align: center;
+    justify-content: center;
+}
+h2 { font-family: Helvetica, sans-serif; font-size: 3.0em;
+							  letter-spacing: -1px; color: black; }
+a { color: #0066cc; }
+a:hover { color: black; }
