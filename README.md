@@ -8,7 +8,9 @@ I then started taking pictures of some plants I love and gathering some inspirat
 
 * [Mood Board](https://uk.pinterest.com/grahamie/design/)
 * [Style Guide](https://amygrahamie.github.io/icons/styleguide.html)
-* [Supporting Sketches](https://amygrahamie.github.io/icons/sketches.html)
+* [Supporting Sketches](http://amygrahamie.tumblr.com/post/160584635607/supporting-sketches)
+& [here](http://amygrahamie.tumblr.com/post/160584475057/supporting-sketches)
+
 
 
 ## Icon Website
