@@ -10,8 +10,7 @@ I then started taking pictures of some plants I love and gathering some inspirat
 * [Style Guide](https://amygrahamie.github.io/icons/styleguide.html)
 * [Supporting Sketches](http://amygrahamie.tumblr.com/post/160584635607/supporting-sketches)
 & [here](http://amygrahamie.tumblr.com/post/160584475057/supporting-sketches)
-
-
+* [IXD304 Posts](http://amygrahamie.tumblr.com/tagged/ixd304)
 
 ## Icon Website
 
@@ -20,5 +19,7 @@ I wanted to try creating a horizontal scrolling website as I have a vision of wa
 Following this I then felt my designs would flow and look better on a vertical scrolling website. 
 
 Here is my finished [Icon Site](https://amygrahamie.github.io/icons/icons.html)
+
+
 
 
